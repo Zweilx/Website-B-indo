@@ -1,0 +1,45 @@
+.main_header{
+    font-family: 'Lato', sans-serif;
+    height: 90px;
+    background-color: #F3F4ED;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    opacity: 60%;
+    
+    
+
+}
+
+.btm{
+    font-family: 'Lato', sans-serif;
+    height: 65px;
+    background-color: #F3F4ED;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    opacity: 60%;
+    
+
+
+}
+.isi{
+    font-family: 'Lato', sans-serif;
+}
+.nama{
+    background-color: #F3F4ED;
+    opacity: 40%;
+    margin-right: 700px;
+    margin-left: 220px;
+    border: black;
+
+}
+.Logo{
+    height: 80px;
+    width: 80px;
+    float: right;
+    
+}
+.comicstr{
+   margin-left: 525px;
+}
